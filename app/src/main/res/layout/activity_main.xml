@@ -13,6 +13,11 @@
         android:layout_x="60sp"
         android:layout_gravity="center_horizontal"
         android:text="Login Form"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </TextView>
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
